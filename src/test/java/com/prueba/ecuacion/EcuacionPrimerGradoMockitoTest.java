@@ -1,4 +1,4 @@
-package com.softtek.ecuacion;
+package com.prueba.ecuacion;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
@@ -8,6 +8,9 @@ import org.junit.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
+
+import com.prueba.ecuacion.EcuacionPrimerGrado;
+import com.prueba.ecuacion.Parseador;
 
 public class EcuacionPrimerGradoMockitoTest {
 

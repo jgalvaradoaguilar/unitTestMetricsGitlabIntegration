@@ -1,8 +1,10 @@
-package com.softtek.ecuacion;
+package com.prueba.ecuacion;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.prueba.ecuacion.Parseador;
 
 public class ParseadorTest {
 

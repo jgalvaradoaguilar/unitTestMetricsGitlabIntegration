@@ -1,4 +1,4 @@
-package com.softtek.ecuacion;
+package com.prueba.ecuacion;
 
 /**
  * Ecuacion en formato:
